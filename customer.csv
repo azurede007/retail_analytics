@@ -1,0 +1,9 @@
+customer_id,customer_name,email,phone,city,state,registration_date,status
+C1001,Arun Kumar,arun.kumar@email.com,+91-9876543210,Chennai,Tamil Nadu,2025-01-15,ACTIVE
+C1002,Priya Ravi,priya.ravi@email.com,+91-9876543211,Bengaluru,Karnataka,2025-02-20,ACTIVE
+C1003,Suresh Mani,suresh.mani@email.com,+91-9876543212,Coimbatore,Tamil Nadu,2025-03-05,ACTIVE
+C1004,Meena Raj,meena.raj@email.com,+91-9876543213,Madurai,Tamil Nadu,2025-04-18,INACTIVE
+C1005,Vijay Anand,vijay.anand@email.com,+91-9876543214,Hyderabad,Telangana,2025-05-10,ACTIVE
+C1006,Kavya S,kavya.s@email.com,+91-9876543215,Chennai,Tamil Nadu,2025-06-12,ACTIVE
+C1007,Ramesh B,ramesh.b@email.com,+91-9876543216,Pune,Maharashtra,2025-07-01,ACTIVE
+C1008,Divya Mohan,divya.m@email.com,+91-9876543217,Bengaluru,Karnataka,2025-07-15,ACTIVE

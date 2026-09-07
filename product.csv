@@ -1,0 +1,9 @@
+product_id,product_name,category,subcategory,unit_price,tax_rate_pct,brand,status
+P1001,iPhone 15,Electronics,Smartphone,65000,10,Apple,ACTIVE
+P1002,Samsung Galaxy S24,Electronics,Smartphone,58000,10,Samsung,ACTIVE
+P1003,Dell Inspiron 15,Electronics,Laptop,62000,10,Dell,ACTIVE
+P1004,HP Pavilion,Electronics,Laptop,68000,10,HP,ACTIVE
+P1005,Sony Bravia 55,Electronics,Television,75000,10,Sony,ACTIVE
+P1006,Boat Airdopes 141,Accessories,Earbuds,1499,18,Boat,ACTIVE
+P1007,Logitech MX Master,Accessories,Mouse,7995,18,Logitech,ACTIVE
+P1008,American Tourister Bag,Travel,Laptop Bag,3999,18,American Tourister,ACTIVE
